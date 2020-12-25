@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/planet-app/static/css/main.6067a77a.chunk.css",
+    "main.js": "/planet-app/static/js/main.f90f44f4.chunk.js",
+    "main.js.map": "/planet-app/static/js/main.f90f44f4.chunk.js.map",
+    "runtime-main.js": "/planet-app/static/js/runtime-main.fdf8eb2e.js",
+    "runtime-main.js.map": "/planet-app/static/js/runtime-main.fdf8eb2e.js.map",
+    "static/js/2.819bf531.chunk.js": "/planet-app/static/js/2.819bf531.chunk.js",
+    "static/js/2.819bf531.chunk.js.map": "/planet-app/static/js/2.819bf531.chunk.js.map",
+    "static/js/3.4dee5eb1.chunk.js": "/planet-app/static/js/3.4dee5eb1.chunk.js",
+    "static/js/3.4dee5eb1.chunk.js.map": "/planet-app/static/js/3.4dee5eb1.chunk.js.map",
+    "index.html": "/planet-app/index.html",
+    "static/css/main.6067a77a.chunk.css.map": "/planet-app/static/css/main.6067a77a.chunk.css.map",
+    "static/js/2.819bf531.chunk.js.LICENSE.txt": "/planet-app/static/js/2.819bf531.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdf8eb2e.js",
+    "static/js/2.819bf531.chunk.js",
+    "static/css/main.6067a77a.chunk.css",
+    "static/js/main.f90f44f4.chunk.js"
+  ]
+}
